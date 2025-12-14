@@ -22,4 +22,4 @@ The examples and exercises are inspired by coursework from **LMU Munich** and **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/computational-physics.git
+   git clone https://github.com/nilayad/computational-physics.git
